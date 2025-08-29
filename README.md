@@ -11,8 +11,9 @@
 ---
 
 ## 📈 GitHub & Activity
-- GitHub stats: ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luis-Gu&show_icons=true&theme=default)
-- Top languages: ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Gu&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luis-Gu&show_icons=true&title_color=ff4a8b&icon_color=ff4a8b&text_color=9fb0c3&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Gu&layout=compact&theme=dark&title_color=ff4a8b&text_color=9fb0c3&bg_color=0d1117)
 
 ---
 
