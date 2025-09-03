@@ -24,9 +24,5 @@
 
 ---
 
-## 📫 Contact / Socials
-- Email: hello@yourdomain.com
-- Website: https://your-website.example.com
-- LinkedIn: https://linkedin.com/in/your-handle
-- Twitter/X: https://twitter.com/your-handle
-- Mastodon: @your@instance.social
+## 📫 Contact
+- Email: luis.gucn@gmail.com
