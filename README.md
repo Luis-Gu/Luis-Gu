@@ -13,6 +13,8 @@
 ## 📈 GitHub & Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luis-Gu&show_icons=true&title_color=ff4a8b&icon_color=ff4a8b&text_color=9fb0c3&bg_color=0d1117)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Luis-Gu&theme=dark&background=0d1117&ring=ff4a8b&fire=ff4a8b&currStreakLabel=ff4a8b)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Gu&layout=compact&theme=dark&title_color=ff4a8b&text_color=9fb0c3&bg_color=0d1117)
 
 ---
