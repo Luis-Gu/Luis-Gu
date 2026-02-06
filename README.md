@@ -5,7 +5,7 @@
 ## 🛠️ Top Skills
 - Languages: Python, JavaScript / TypeScript
 - Frameworks & Tools: Node.js, Nest.js, Express, Docker, FastAPI
-- Databases: BigQuery, Prisma
+- Databases: BigQuery, PostgreSQL
 - Other: Google Apps Script, N8N
 
 ---
