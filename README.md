@@ -16,9 +16,10 @@
 - Fluent in two languages
 
 ##
+
 <div align=center>
   
- <img src="https://raw.githubusercontent.com/Luis-Gu/luis-gu/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Luis-Gu/luis-gu/output/snake.svg" alt="Snake animation" />
   
 </div>
 
