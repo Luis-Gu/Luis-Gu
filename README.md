@@ -15,11 +15,12 @@
 - Avid PC gamer and sports enthusiast — I balance coding with both competitive and casual gaming and regular physical activity
 - Fluent in two languages
 
-## Stats
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Luis-Gu&show_icons=true&theme=tokyonight&count_private=true&v=1" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Gu&layout=compact&theme=tokyonight&v=1" />
-</p>
+##
+<div align=center>
+  
+ <img src="https://raw.githubusercontent.com/Luis-Gu/luis-gu/output/snake.svg" alt="Snake animation" />
+  
+</div>
 
 ---
 
