@@ -1,53 +1,76 @@
-# 👋 Hi — I'm Luis Gustavo
-
----
-
-## 🛠️ Top Skills
-- Languages: Python, JavaScript / TypeScript
-- Frameworks & Tools: Node.js, Nest.js, Express, Docker, FastAPI
-- Databases: BigQuery, PostgreSQL
-- Other: Google Apps Script, N8N
-
----
-
-## ⚡ Fun Facts
-- Coffee-first engineer ☕
-- Avid PC gamer and sports enthusiast — I balance coding with both competitive and casual gaming and regular physical activity
-- Fluent in two languages
-
-##
-
-<div align=center>
-  
-<img src="https://raw.githubusercontent.com/Luis-Gu/luis-gu/output/snake.svg" alt="Snake animation" />
-  
-</div>
-
----
-
-## 📈 GitHub Analytics
+# Luis Gustavo
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luis-Gu&theme=tokyonight" alt="Profile Details" width="100%" />
+### AUTOMATION · BACKEND · DATA
+
+Building practical tools that simplify workflows, connect systems, and turn repetitive tasks into reliable solutions.
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luis-Gu&theme=tokyonight" alt="Stats" height="165em" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luis-Gu&theme=tokyonight" alt="Top Languages by Repo" height="165em" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luis-Gu&theme=tokyonight" alt="Top Languages by Commit" height="165em" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Luis-Gu&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luis-Gu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" alt="Contribution Graph" width="100%" />
+<a href="https://github.com/Luis-Gu">
+  <img src="https://img.shields.io/badge/GitHub-Luis--Gu-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:luis.gucn@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-161B22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
 
 </div>
 
 ---
 
-## 📫 Contact
-- Email: luis.gucn@gmail.com
+## `01` — About me
+
+I'm a developer interested in building useful software, automating processes, and making technology work smarter.
+
+I enjoy understanding how things work, finding ways to improve them, and turning ideas into practical solutions — from backend APIs to workflow automation and data-driven tools.
+
+## `02` — Toolbox
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=161B22)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Backend & Infrastructure**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-555555?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Data & Automation**
+
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+## `03` — What I like building
+
+- **Workflow automation** — reducing manual work and repetitive tasks.
+- **Backend systems** — APIs, integrations, and services that connect different tools.
+- **Data solutions** — transforming raw information into useful insights.
+- **Document processing** — exploring OCR and intelligent ways to extract and validate information.
+
+## `04` — GitHub activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Luis-Gu&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
+
+</div>
+
+## `05` — Beyond the code
+
+☕ Coffee enthusiast · 🎮 PC gamer · 🏋️ Staying active
+
+🌎 Portuguese & English
+
+---
+
+<div align="center">
+
+</div>
